@@ -1,7 +1,7 @@
 # HackGPT, Kindly read for all sources (PPT and Colab Notebook)
 Repository for HackGPT Hackathon at IIT Patna
 
-Run the main.py file with .env for OpenAI API Key and FSSAI
+Run the requirements.txt, main.py file with .env for OpenAI API Key and FSSAI
 
 Run Google Colab file if encountered any errors
 Rest shared it PPT
